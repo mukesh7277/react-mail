@@ -1,0 +1,14 @@
+[
+  {
+    "mId": "guid-1",
+    "unread": true,
+    "subject": "Flipkart",
+    "content": "Hi Mukesh! Your order id #2266514 is been delivered "
+  },
+  {
+    "mId": "guid-2",
+    "unread": false,
+    "subject": "Myntra",
+    "content": "Book now and get exciting offers"
+  }
+]
