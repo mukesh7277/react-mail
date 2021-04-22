@@ -4,11 +4,11 @@ A problem for an interview process.
 clone repository
 
 
-yarn install
+# yarn install
 
 cd express-server
-$node server.js
+# $node server.js
 
 cd..
 
-yarn start
+# yarn start
